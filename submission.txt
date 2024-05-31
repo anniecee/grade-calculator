@@ -1,0 +1,5 @@
+CMPT 276 - ASSIGNMENT 1
+GRADE CALCULATOR
+
+1. URL of web app: https://grade-calculator-9xoz.onrender.com/calculator.html
+2. Git link: https://github.com/anniecee/grade-calculator.git
